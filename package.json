@@ -34,6 +34,7 @@
   "devDependencies": {
     "copy-webpack-plugin": "^6.0.3",
     "customize-cra": "^1.0.0",
+    "lodash": "^4.17.19",
     "react-app-rewire-multiple-entry": "^2.2.0",
     "react-app-rewired": "^2.1.6"
   }
