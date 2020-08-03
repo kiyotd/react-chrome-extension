@@ -1,3 +1,5 @@
+![thumb](https://user-images.githubusercontent.com/41136135/89146945-3f2ad500-d590-11ea-8f56-d99007dd2d0e.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 This is a boilerplate to use create-react-app for Chrome extensions development .
