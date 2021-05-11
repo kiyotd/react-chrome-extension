@@ -35,7 +35,7 @@
     "copy-webpack-plugin": "^6.0.3",
     "customize-cra": "^1.0.0",
     "elliptic": "^6.5.3",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "node-forge": "^0.10.0",
     "react-app-rewire-multiple-entry": "^2.2.0",
     "react-app-rewired": "^2.1.6",
